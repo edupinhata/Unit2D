@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A7C-InvasaoPousada
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA entra correndo em seu quarto, fecha a porta e se debru\xE7a
+    sobre ela, esperando que a criatura n\xE3o seja forte o suficiente para quebr\xE1-la.\nVoc\xEA
+    ouve algu\xE9m chegando do outro lado da porta. Ouve a criatura dizendo com uma
+    percept\xEDvel raiva em sua voz:\n\"Eu sabia que n\xE3o podia confiar em voc\xEA,
+    vou eliminar de vez este mal daqui.\"\nVoc\xEA v\xEA uma luz por baixo da porta
+    e ouve um rangido vindo da porta. Da madeira come\xE7am a brotar ramos que rapidamente
+    te envolvem. Voc\xEA tenta se desvencilhar dos mesmos, mas eles j\xE1 te seguram
+    fortemente conta a parede. Um dos ramos envolvem se pesco\xE7o e o ar come\xE7a
+    a lhe faltar. Voc\xEA tenta levar as m\xE3os para o pesco\xE7o, mas elas est\xE3o
+    presas. Sua vis\xE3o come\xE7a a escurecer e seu corpo parece estar ficando mais
+    pesado, at\xE9 que por fim tudo se apaga. \n\nFim de jogo. \n\n1. Para jogar
+    novamente."
+  nextStates:
+  - {fileID: 11400000, guid: 080cf57cca8d84043952eaf17ee8b342, type: 2}

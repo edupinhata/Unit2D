@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A7B-InvasaoPousada
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA, assustado, sem acreditar no que viu, se vira e corre para
+    o corredor. Voc\xEA v\xEA a porta do quarto que acordou entre aberta e, no final
+    do corredor a escada que leva para o pr\xF3ximo c\xF4modo.  \n\nO que voc\xEA
+    faz?\n\n1. Corre para o quarto.\n2. Corre para a escada."
+  nextStates:
+  - {fileID: 11400000, guid: d590633a062fc463b95e2040af176a9e, type: 2}
+  - {fileID: 11400000, guid: 6ce604bf7582d49f2b921c14a24301f5, type: 2}

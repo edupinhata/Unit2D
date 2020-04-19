@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A7-InvasaoPousada
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA tenta abrir a porta \xE0 frente do seu quarto e verifica que
+    a mesma n\xE3o est\xE1 trancada. Ao entrar, o quarto \xE9 muito parecido com
+    o seu e ao canto, em uma escrivaninha, um humanoide com escamas no lugar de pele,
+    orelhas com formato de barbatanas de peixes. Em suas m\xE3os, h\xE1 garras no
+    lugar das unhas. Suas roupas s\xE3o r\xFAsticas, e parecem desgastadas.  Ele
+    est\xE1 escrevendo em um pergaminho com uma pena com ponta brilhante. Olha voc\xEA
+    e se espanta: \"O que \xE9 que voc\xEA est\xE1 fazendo invadindo meu quarto?\".
+    Ele se levanta e, de seu cinto, retira um pequeno pergaminho, que come\xE7a a
+    brilhar.  \n\nO que voc\xEA faz?\n\n1. Corre!\n2. Tenta se desculpar."
+  nextStates:
+  - {fileID: 11400000, guid: 1c8753612f61e4fa782e0748a9058dec, type: 2}
+  - {fileID: 11400000, guid: 003bd9c21d80948ef951e1b9fc795ae1, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A3-Janela
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA se espanta ao perceber que a rua asfaltada, os postes de luz
+    e os carros n\xE3o fazem parte da paisagem que voc\xEA contempla. No lugar disso,
+    pessoas com trajes r\xFAsticos, que o faziam lembrar das ilustra\xE7\xF5es de
+    seus livros de hist\xF3ria, andavam no pavimento de pedra em que uma carro\xE7a
+    era puxada por... um frio percorreu pelo seu corpo. Voc\xEA esfrega seus olhos
+    e fita o cavalo estranho que puxava a carruagem, e se assusta ao perceber que
+    n\xE3o era um cavalo que via: o quadr\xFApede que puxava a carro\xE7a tinha o
+    tamanho de um cavalo, entretanto no lugar de pelos, haviam penas, no lugar de
+    cascos, patas com tr\xEAs dedos e garras lembravam grandes p\xE9s de lagartos.
+    O focinho era muito parecido com o de cavalo, mas era mais fino, pontudo, lembrando
+    um bico de p\xE1ssaro.  \n\nO que voc\xEA faz?\n\n1. Volta para o quarto."
+  nextStates:
+  - {fileID: 11400000, guid: d5caa755494444f529077d3fdcb6e47e, type: 2}

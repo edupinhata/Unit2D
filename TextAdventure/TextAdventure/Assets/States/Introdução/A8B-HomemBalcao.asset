@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A8B-HomemBalcao
+  m_EditorClassIdentifier: 
+  storyText: "O homem no balc\xE3o est\xE1 usando uma longa capa com um capuz. Uma
+    grande mochila est\xE1 ao seu lado. Em sua cintura voc\xEAs repara alguns pergaminhos
+    presos ao seu cinto. Voc\xEA sente um frio no est\xF4mago ao ver que do outro
+    lado do seu cinto, h\xE1 uma espada. A mesma lembra muito uma katana, que \xE9
+    uma espada conhecida por ter sido usada por samurais.\nO homem est\xE1 quieto
+    comendo e bebendo.\n\nO que voc\xEA faz?\n\n1. Presta aten\xE7\xE3o nos an\xF5es.\n2.
+    Senta-se na mesa mais pr\xF3xima."
+  nextStates:
+  - {fileID: 11400000, guid: d28b04f43a8414007b4805b55ff93d58, type: 2}
+  - {fileID: 11400000, guid: b8028e0aa22494e04ace7f94430f6c60, type: 2}

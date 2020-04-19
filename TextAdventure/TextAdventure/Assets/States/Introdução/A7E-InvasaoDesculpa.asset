@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A7E-InvasaoDesculpa
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA tenta n\xE3o parecer assustado, d\xE1 alguns passos para tr\xE1s
+    e tenta se desculpar: \"Me desculpe, n\xE3o quis invadir. Estou um pouco perdido.
+    Ser\xE1 que voc\xEA poderia me dizer onde estou?\"\nA criatura te olha com curiosidade
+    e suspeita. Chega mais perto para te analisar melhor. Enquanto ele te rodeia
+    te analisando com desconfian\xE7a, seu cora\xE7\xE3o bate acelerado. \nNeste
+    momento a porta ao lado da porta do seu quarto se abre. Um roto sorridente de
+    uma garota olha na dire\xE7\xE3o de voc\xEAs e diz: \"Quirk, ele est\xE1 comigo.\"\nEla
+    olha para voc\xEA e diz: \"Que bom que voc\xEA acordou! Estou quase pronta. Me
+    espera l\xE1 embaixo em uma das mesas.\". Em seguida fecha a porta rapidamente.\nQuirk
+    te olha com desconfian\xE7a, volta para o quarto e fecha a porta, te deixando
+    no corredor.\n\nO que voc\xEA faz?\n\n1.  Desce as escadas\n "
+  nextStates:
+  - {fileID: 11400000, guid: d84a0b042423e4dc2aaa51b8dc3491e7, type: 2}

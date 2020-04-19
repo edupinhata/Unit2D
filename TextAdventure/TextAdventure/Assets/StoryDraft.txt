@@ -1,0 +1,11 @@
+﻿Você acorda em uma cama, olhando para um teto de madeira. 
+Volhar para o lado, o quarto é pequeno, com apenas um gaveteiro e um espelho. 
+Você  não sabe onde está e nem como chegou ali.
+Você se levanta assustado tentando entender onde que está, 
+a última coisa que se lembra é de estar voltando para casa 
+depois de sair com seus amigos.
+
+O que você faz?
+1. Levanta e tenta abrir a porta.
+2. Olha pela janela.
+3. Procura algo no quarto.

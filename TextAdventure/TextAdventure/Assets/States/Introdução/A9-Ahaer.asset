@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A9-Ahaer
+  m_EditorClassIdentifier: 
+  storyText: "A9. Ahaer\n\nVoc\xEA Se senta na mesa mais pr\xF3xima. N\xE3o confia
+    em tudo o que est\xE1 acontecendo, ent\xE3o senta-se de costas para a parede,
+    de modo que todos que est\xE3o no sal\xE3o fique a sua vista.\nLogo em seguida,
+    a Ahaer, a garota que falou com voc\xEA no andar de cima aparece no sal\xE3o.
+    Olha para voc\xEA e se senta do outro lado da mesa, na sua frente. \n\"Ol\xE1,
+    desculpe l\xE1 em cima. Prazer, sou Ahaer. Eu que te trouxe para c\xE1.\"\n\"Ol\xE1,
+    eu me chamo .... Acho que eu ficaria um pouco mais tranquilo(a) se fosse em uma
+    situa\xE7\xE3o normal. Mas o que est\xE1 acontecendo? Onde estou?\"\nEla te olha
+    com um pouco de preocupa\xE7\xE3o, olha para cima e come\xE7a a dizer:\n\"Vou
+    te dizer que tudo \xE9 um pouco complicado para mim tamb\xE9m. Ontem eu estava
+    patrulhando a Floresta Norte  depois que as anormalidades come\xE7aram a acontecer.
+    N\xE3o muito longe de onde eu estava, ouvi um barulho muito alto e um clar\xE3o
+    muito forte. Corri para ver o que era o clar\xE3o e ao chegar no local, parecia
+    que parte da floresta havia sido removida, e no local, havia uma constru\xE7\xE3o
+    a ponto de desabar. Te vi deitado em uma cama e o tirei de l\xE1 pouco antes
+    de voc\xEA ter sido soterrado. Trouxe voc\xEA para a cidade mas voc\xEA ficou
+    inconsciente o tempo todo.\""
+  nextStates: []

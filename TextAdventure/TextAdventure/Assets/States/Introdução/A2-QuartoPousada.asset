@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A2-QuartoPousada
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA se encontra em um quarto pequeno com uma cama, um gaveteiro.
+    O quarto possui uma janela, e pela vista do topo das casas, voc\xEA percebe que
+    est\xE1 no segundo andar da casa.\n\nO que voc\xEA faz?\n\n1. Observa a janela.\n2.
+    Tenta sair pela porta."
+  nextStates:
+  - {fileID: 11400000, guid: 09e03055a747749088e1b2211c33c007, type: 2}
+  - {fileID: 11400000, guid: ee80e5236363b49b9a42ac71a031d1d3, type: 2}

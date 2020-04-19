@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b864197765c6144f7a116cb4677c385d, type: 3}
+  m_Name: A8A-OsAnoes
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA presta olha disfar\xE7adamente para os an\xF5es. S\xE3o 5 an\xF5es
+    sentados a mesa. Todos usam ca\xE7as de couro, botas de cano longo bem usadas
+    e camisetas de manga longa feita de um tecido r\xFAstico. Ao lado da mesa repousam
+    algumas picaretas e p\xE1s.\nUm dos an\xF5es com barbas e cabelos bem escuros
+    diz dando uma risada:\n\"... aparentemente os pergaminhos de terraforma\xE7\xE3o
+    que eles possuem aqui n\xE3o s\xE3o t\xE3o eficazes.\"\nUm outro an\xE3o com
+    cabelos brancos, uma longa barba com pequenas tran\xE7as, aparenta ser o mais
+    velho da mesa diz:\n\"Eu discordo, acredito que eles conseguiram fazer um bom
+    trabalho com os pergaminhos que tem a disposi\xE7\xE3o, entretanto o trabalho
+    que eles precisam que seja feito \xE9 muito mais preciso e complicado. Por isso
+    precisam da gente aqui.\"\nUm outro an\xE3o, sem barba, cabelos curtos, visivelmente
+    menos musculoso que os outros quatro diz depois de morder o p\xE3o com ovo que
+    tinha em suas m\xE3os:\n\"Realmente. Eles realmente conseguiram grandes avan\xE7os
+    na parte alta. Acho que a quest\xE3o realmente \xE9 a complexidade do que eles
+    est\xE3o fazendo.\"\n\nO que voc\xEA faz?\n\n1. Presta aten\xE7\xE3o no homem
+    sentado no balc\xE3o\n2. Senta-se na mesa mais pr\xF3xima."
+  nextStates:
+  - {fileID: 11400000, guid: 5920f3e64c0cc4dfeb10688b0552eec7, type: 2}
+  - {fileID: 11400000, guid: b8028e0aa22494e04ace7f94430f6c60, type: 2}
