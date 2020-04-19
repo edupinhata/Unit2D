@@ -6,11 +6,11 @@ This folder contains some Unity 2D projects made while doing a Udemy course.
 
 Some of the projects have the executable, so you can try the actual game.
 
-## Introduction
+## 1. Introduction
 
 This project is an introduction to Unit2D, and uses the console to make a guess game, where the game will try to guess a number chosen by the player.
 
-## Text Adventure
+## 2. Text Adventure
 
 This project intend to implement a state machine in Unity. This is a textual adventure where the player can choose what it will do in the story.
 
