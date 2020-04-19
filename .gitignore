@@ -1,9 +1,9 @@
  #For Mac developers
  # Unity generated #
  # =============== #
- Temp/
- obj/
- Library/
+ ./**/Temp/**
+ ./**/obj/**
+ ./**/Library/**
   
  
  # ===================================== #
