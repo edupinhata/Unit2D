@@ -23,8 +23,8 @@ The demo has only a few states just to prove that the state machine actually wor
 
 ## 3. Number Wizard
 
-[](./WizardNumber.gif)
+![](./WizardNumber.gif)
 
 THis project intend to teach how to deal with Buttons and Scenes transictions. This game tries to guess a number that the player thought. The player gives the information about the guess given by the game being higher or lower than the thought number.
 
-[Play game (version 0.01)](./WizardNumber/WizardNumber/Build/WizardNumber_0.01)
+[Play game (version 0.01)](./WizardNumber/WizardNumber/Build/NumberWizard_0.01)
