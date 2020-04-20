@@ -12,6 +12,8 @@ This project is an introduction to Unit2D, and uses the console to make a guess 
 
 ## 2. Text Adventure
 
+![](./TextAdventure.gif)
+
 This project intend to implement a state machine in Unity. This is a textual adventure where the player can choose what it will do in the story.
 
 ### Demo
