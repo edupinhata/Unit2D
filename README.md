@@ -19,3 +19,12 @@ This project intend to implement a state machine in Unity. This is a textual adv
 The demo has only a few states just to prove that the state machine actually work.
 
 [Play demo (version 0.01)](./TextAdventure/Build/Elderian_0.01)
+
+
+## 3. Number Wizard
+
+[](./WizardNumber.gif)
+
+THis project intend to teach how to deal with Buttons and Scenes transictions. This game tries to guess a number that the player thought. The player gives the information about the guess given by the game being higher or lower than the thought number.
+
+[Play game (version 0.01)](./WizardNumber/WizardNumber/Build/WizardNumber_0.01)

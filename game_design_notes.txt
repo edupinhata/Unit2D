@@ -1,0 +1,21 @@
+# Core game design of a game
+
+Player Experience
+Core Mechaninc
+Theme
+Core game loop
+
+Example: In the Wizard Number game we have the following for each aspects of the game design:
+Player experience: 
+    Joyful
+Core Mechanic: 
+    Thinking of a number
+Theme: 
+    A bit silly
+Core game loop:
+    Think of a number.
+    Feedback on higher or lower
+
+Your game Theme
+- Think of a "skin" for your game.
+- What is the tone of voice, the images, the style you'll use?
