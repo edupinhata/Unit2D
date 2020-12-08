@@ -12,6 +12,7 @@ public class GameSession : MonoBehaviour
     // State variables
     [SerializeField] int currentScore;
     [SerializeField] TextMeshProUGUI scoreText;
+    [SerializeField] private bool isAutoPlayEnabled;
 
 
     private void Awake()
@@ -51,5 +52,10 @@ public class GameSession : MonoBehaviour
     public void ResetScore()
     {
         Destroy(gameObject);
+    }
+
+    public bool IsAutoPlayEnabled()
+    {
+        return isAutoPlayEnabled;
     }
 }
