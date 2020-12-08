@@ -30,3 +30,14 @@ The demo has only a few states just to prove that the state machine actually wor
 THis project intend to teach how to deal with Buttons and Scenes transictions. This game tries to guess a number that the player thought. The player gives the information about the guess given by the game being higher or lower than the thought number.
 
 [Play game (version 0.01)](./WizardNumber/WizardNumber/Build/NumberWizard_0.01)
+
+
+## 4. Block Breaker
+
+![](./BlockBreaker.git)
+
+This project is a block breaker type of game, where I learned about gravity, instantiating game
+objects, prefabs, audio, and other concepts. You should control a pad that will rebounce a ball that
+should hit some blocks in order to break them.
+
+[Play game (version 0.01](./BlockBreaker/Build/BlockBreaker)
