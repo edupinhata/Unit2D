@@ -34,10 +34,10 @@ THis project intend to teach how to deal with Buttons and Scenes transictions. T
 
 ## 4. Block Breaker
 
-![](./BlockBreaker.git)
+![](./BlockBreaker.gif)
 
 This project is a block breaker type of game, where I learned about gravity, instantiating game
 objects, prefabs, audio, and other concepts. You should control a pad that will rebounce a ball that
 should hit some blocks in order to break them.
 
-[Play game (version 0.01](./BlockBreaker/Build/BlockBreaker)
+[Play game (version 0.01)](./BlockBreaker/Build/BlockBreaker)
