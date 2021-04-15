@@ -1,9 +1,11 @@
+using System;
 using UnityEngine;
 
-namespace DefaultNamespace
+public class Shredder : MonoBehaviour
 {
-    public class Shredder : MonoBehaviour
+
+    void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        Destroy(collision.gameObject);
     }
 }

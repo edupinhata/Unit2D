@@ -1,9 +1,14 @@
 # Unity created
 /Library/
+**/Library/**
 /Temp/
+**/Temp/**
 /Build/
+**/Build/**
 /obj/
+**/obj/**
 /Logs/
+**/Logs/**
 
 # Unity should not create these
 Thumbs.db.meta
