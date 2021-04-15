@@ -1,3 +1,10 @@
+# Unity created
+/Library/
+/Temp/
+/Build/
+/obj/
+/Logs/
+
  #For Mac developers
  # Unity generated #
  # =============== #
