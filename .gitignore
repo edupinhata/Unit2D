@@ -5,13 +5,27 @@
 /obj/
 /Logs/
 
- #For Mac developers
- # Unity generated #
- # =============== #
- ./**/Temp/**
- ./**/obj/**
- ./**/Library/**
-  
+# Unity should not create these
+Thumbs.db.meta
+
+# Build logs
+TapjoyXcodeUpdatePostBuild.log
+AdjustPostBuild*.txt
+Google.JarResolver.userprefs.meta
+StreamingAssets.meta
+
+# IDEA config files
+.idea/
+JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
+Assets/Plugins/ConsoleE/Editor/ConsoleE_TabSettings
+Assets/Plugins/ConsoleE/Editor/ConsoleE_TabSettings.meta
+*.sln.DotSettings.user
+androidDependencies_raw.log
+
+# Find reference tool cache file
+Assets/FR2_Cache.asset*
+Assets/FR2_Cache.asset
  
  # ===================================== #
  # Visual Studio / MonoDevelop generated #
@@ -30,6 +44,8 @@
  *.app
  *.exe
  *.*_data
+.vs
+.DS_Store
  
  Build/iOS
  Build/android
